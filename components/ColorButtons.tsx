@@ -51,7 +51,7 @@ export default function ColorButtons() {
           height: calc(50% - 10px);
           border: none;
           cursor: pointer;
-          font-size: 20em;
+          font-size: 10vw;
           font-weight: bold;
         }
 
